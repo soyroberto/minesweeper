@@ -6,7 +6,7 @@ A delightful cat-themed minesweeper game built with React, featuring customizabl
 ![React](https://img.shields.io/badge/React-18.3.1-blue)
 ![Vite](https://img.shields.io/badge/Vite-6.3.5-purple)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.17-cyan)
-
+![Play CatMinesweeper](./catmine.png)
 ## 🎮 Features
 
 ### 🐾 **Cat-Themed Gameplay**
